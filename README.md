@@ -1,0 +1,1 @@
+A web-app serving 10-12 people including three roles: admin, lecturer and student built to help out on the path of learning the "Exploring End-to-End Business Processes in SAP Business Suite" and getting ready for the "C_IEE2E" certification on SAP Learning Hub. This app is non-profit and serve my group, but you can try out if you want.
